@@ -351,7 +351,7 @@ The core algorithms and data structures are all located in `src/`:
 
 ### Configuration
 
-You can tweak standard physics and rendering settings directly from within `Simulation.java`:
+You can tweak standard physics and rendering settings directly from within `Simulation.java`. Some examples are:
 
 - `NUMBER_OF_BODIES`: Adjust the system body count. Default is `10,000`.
 - `drawBoundaries`: Set to `true` to visualize the structural boundaries of the Octree processing regions.
