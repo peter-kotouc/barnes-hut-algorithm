@@ -390,12 +390,7 @@ If you would like to learn more about the Barnes-Hut algorithm, here are some ex
 
 ## Responsible Use of AI
 
-Please note that portions of this README were drafted with the assistance of artificial intelligence. However, all
-generated content has been carefully reviewed, edited, and verified by me to ensure accuracy. The original code and comments of this
-solution was written and designed without the use of AI. AI was used to help me draft the galaxy simulation, but the
-code itself was written by me (this functionality was added after the project was submitted). Some parts of the code
-comments are completed by AI, but the correctness was checked by me. All of the AI-assisted parts were added after the submission to the
-university.
+Parts of this README and some code comments were drafted using AI after the initial university submission. However, all original code, logic, and core comments were designed and written by me. I have manually reviewed and verified all AI-assisted content—including the post-submission galaxy simulation (which was researched by AI, but implemented by me) to ensure accuracy and correctness.
 
 ## License
 
