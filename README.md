@@ -54,7 +54,7 @@ space. It achieves this in two steps:
 
 ### Class & Subtype Relationships
 
-For a zoomable version, open this repo in a browser and open the dropdown under this picture with the full mermaid code.
+Open this README in browser, for the graphs to be rendered. Currently GitHub mobile does not render Mermaid code.
 
 ```mermaid
 classDiagram
